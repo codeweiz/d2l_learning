@@ -1,0 +1,10 @@
+[project]
+name = "d2l_learning"
+version = "0.1.0"
+description = "动手学习深度学习"
+requires-python = ">=3.9"
+dependencies = [
+    "d2l>=1.0.3",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+]
