@@ -5,6 +5,7 @@ description = "动手学习深度学习"
 requires-python = ">=3.9"
 dependencies = [
     "d2l>=1.0.3",
+    "pytest>=8.4.1",
     "torch>=2.7.1",
     "torchvision>=0.22.1",
 ]
