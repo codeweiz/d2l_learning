@@ -1,3 +1,4 @@
 .idea
 **/*.db
 uv.lock
+**/data/FashionMNIST/raw
