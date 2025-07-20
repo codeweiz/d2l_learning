@@ -1,4 +1,4 @@
 .idea
 **/*.db
 uv.lock
-data/FashionMNIST/raw
+**/data/FashionMNIST/raw
