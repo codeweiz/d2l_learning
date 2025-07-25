@@ -45,6 +45,7 @@ class FixedHiddenMLP(nn.Module):
         return X.sum()
 
 
+
 # 混合块
 class NestMLP(nn.Module):
     def __init__(self):
