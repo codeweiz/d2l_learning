@@ -3,3 +3,4 @@
 uv.lock
 **/data/FashionMNIST/raw
 **/*.csv
+**/*.ipynb_checkpoints
