@@ -38,3 +38,5 @@ class TestPaddingStrides(unittest.TestCase):
         # (8 + 2 * 0 - 3 + 1) / 3 = 2
         # (8 + 2 * 1 - 5 + 1) / 4 = 2
         assert comp_conv2d(conv2d, X).shape == (2, 2)
+
+
