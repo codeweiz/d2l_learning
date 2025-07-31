@@ -40,3 +40,5 @@ class TestPaddingStrides(unittest.TestCase):
         assert comp_conv2d(conv2d, X).shape == (2, 2)
 
 
+if __name__ == '__main__':
+    unittest.main()
